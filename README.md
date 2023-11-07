@@ -29,6 +29,12 @@
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/bartoszjaniuk/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/bartoszjaniuk/)](https://github.com/bartoszjaniuk/)
 
+
+[![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://github.com/bartoszjaniuk/)
+[![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)](https://github.com/bartoszjaniuk/)
+[![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)](https://github.com/bartoszjaniuk/)
+[![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://github.com/bartoszjaniuk/)
+
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&link=https://github.com/bartoszjaniuk/)](https://github.com/bartoszjaniuk/)
 [![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/bartoszjaniuk/)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://github.com/bartoszjaniuk/)
