@@ -1,4 +1,4 @@
-###Passionate Software Engineer | React Enthusiast | Exploring the World of JavaScript
+### Passionate Software Engineer | React Enthusiast | Exploring the World of JavaScript
 
 👋 Welcome to my LinkedIn profile! From the very beginning, my journey has been laser-focused on a singular path: the world of technology.
 
