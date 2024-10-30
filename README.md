@@ -22,6 +22,7 @@
 
 [![Astro](https://img.shields.io/badge/-Astro-0D1117?style=flat-square&logo=astro&logoColor=white)](https://github.com/bartoszjaniuk/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://github.com/bartoszjaniuk/)
+[![React Native](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://github.com/bartoszjaniuk/)
 [![React-Query](https://img.shields.io/badge/-React--Query-000000?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/bartoszjaniuk/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)](https://github.com/bartoszjaniuk/)
 [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js&logoColor=white)](https://github.com/bartoszjaniuk/)
