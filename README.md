@@ -6,7 +6,7 @@
 
 📚 Building on this foundation, I pursued a Bachelor's and Master's degree in Computer Science at Opole University of Technology. My academic journey in Opole has not only expanded my knowledge but also instilled a deep sense of curiosity and determination to push the boundaries of what's possible in the tech industry.
 
-💻 I specialize in a range of cutting-edge technologies, including React, Next.js, Astro, and TypeScript. These tools have become my trusted companions in crafting innovative and user-friendly web applications.
+💻 I specialize in a range of cutting-edge technologies, including React.js, React Native, Next.js, Astro, and TypeScript. These tools have become my trusted companions in crafting innovative and user-friendly web applications.
 
 🚀 Currently, my focus is on honing my skills in Node.js development, as I believe it's the next frontier in empowering scalable and efficient back-end solutions.
 
@@ -22,7 +22,7 @@
 
 [![Astro](https://img.shields.io/badge/-Astro-0D1117?style=flat-square&logo=astro&logoColor=white)](https://github.com/bartoszjaniuk/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://github.com/bartoszjaniuk/)
-[![React Native](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://github.com/bartoszjaniuk/)
+[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](https://github.com/bartoszjaniuk/)
 [![React-Query](https://img.shields.io/badge/-React--Query-000000?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/bartoszjaniuk/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)](https://github.com/bartoszjaniuk/)
 [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js&logoColor=white)](https://github.com/bartoszjaniuk/)
